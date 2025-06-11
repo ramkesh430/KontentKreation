@@ -58,7 +58,7 @@ const About = () => {
     name: 'Rajnikant Chaudhary',
     role: 'Founder',
     bio: 'Digital marketing expert with 8+ years of experience helping South Asian businesses grow online. Specializes in Meta Ads and Google Ads strategy.',
-    image: '/public/rajesh-sharma.jpg',
+    image: '/public/rajesh-sharma.webp',
     expertise: ['Meta Ads Strategy', 'Business Development', 'Client Relations']
   },
   {
@@ -189,7 +189,7 @@ const About = () => {
             </div>
             <div className="reveal-on-scroll">
               <img
-                src="/public/team-collaboration.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                src="/public/team-collaboration.webp?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
                 alt="Team collaboration"
                 className="rounded-2xl shadow-2xl"
               />

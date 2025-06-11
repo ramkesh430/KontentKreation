@@ -27,7 +27,7 @@ const Home = () => {
    {
     icon: (
       <img
-        src="/public/meta-ads.png"
+        src="/public/meta-ads.webp"
         alt="Meta Ads"
         className="w-15 h-10 object-contain"
       />
@@ -39,7 +39,7 @@ const Home = () => {
   {
     icon: (
       <img
-        src="/public/google-ads.png"
+        src="/public/google-ads.webp"
         alt="Google Ads"
         className="w-15 h-10 object-contain"
       />
@@ -51,7 +51,7 @@ const Home = () => {
     {
       icon: (
       <img
-        src="/public/local-seo-gmb.png"
+        src="/public/local-seo-gmb.webp"
         alt="Local SEO + GMB"
         className="w-15 h-10 object-contain"
       />
@@ -114,7 +114,7 @@ const Home = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
           style={{
-            backgroundImage: 'url(/public/team-collaboration.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)'
+            backgroundImage: 'url(/public/team-collaboration.webp?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)'
           }}
         />
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
